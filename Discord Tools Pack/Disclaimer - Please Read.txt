@@ -1,0 +1,17 @@
+Hey Discord Tools here.
+
+I recommend you to use a Virtual Machine or the included Sanbox for the following programs.
+You will be able to run programs without them acessing your system. Viruses won't be able
+to harm your computer then.
+
+These files are not mine. I did not code or work on them. I provide the files only for disposal. 
+
+I were able to decrypt the Source Code for most of these Files and they were harmless but still, please note that I am not responsible for any damages.
+
+If you experience any kind of malware or virus behavior contact me immediately at Baseult@gmail.com so I can remove the threat from the discord pack.
+
+I am not responsible for any actions you perform with the Following Files.
+I am not responsible for any damage, caused by your following actions.
+Use it at your own risk.
+
+~Discord Tools
